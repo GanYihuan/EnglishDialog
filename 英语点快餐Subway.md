@@ -13,16 +13,13 @@
 # sweet onion chicken teriyaki
 # turkey breast
 # veggie delite
-
 # bread
 # meat
 # cheese
 # veggies
 # sauce
-
 # footlong / big size 30cm
 # 6 inch / small size 15cm
-
 # white italian 意大利白面包
 # flatbread 扁平面包
 # 9-grain wheat 九种谷物全麦面包
@@ -31,7 +28,6 @@
 # grain honey oat 蜂蜜燕麦面包
 # jalapenos cheese 墨西哥辣椒奶酪面包
 # montery chedder 蒙特利切达起司面包
-
 # black forest ham
 # bacon
 # pepperoni
@@ -45,7 +41,6 @@
 # teriyaki chicken
 # chicken strips
 # tuna
-
 # cucumbers
 # green peppers
 # lettuce
@@ -59,7 +54,6 @@
 # carrots
 # sweet peppers
 # jalapenos
-
 # mustard
 # chipotle southewest
 # mayo / mayonnaise
@@ -74,7 +68,6 @@
 # sriracha
 # tzatziki cucumber
 # slider 小号汉堡
-
 # milk
 # juice box
 # coke
