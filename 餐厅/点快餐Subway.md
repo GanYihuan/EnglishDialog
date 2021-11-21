@@ -92,7 +92,7 @@
 # yes, sure
 # what kind of veggies can i put on here for you
 # i'd like some tomatoes, sweet peppers, pinach and pickles please
-# houw about the sauce
+# how about the sauce
 # mayo, please
 # oh, wait a minute. can i get some honey mastard as well
 # do you want any chips or drinks with the sandwich today
